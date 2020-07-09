@@ -1,0 +1,16 @@
+E:\Medium-Dialogflow-Webhook-With-WebApi-master\WebhookApi\WebhookApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\Medium-Dialogflow-Webhook-With-WebApi-master\WebhookApi\WebhookApi\bin\Debug\netcoreapp2.1\appsettings.json
+E:\Medium-Dialogflow-Webhook-With-WebApi-master\WebhookApi\WebhookApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\Medium-Dialogflow-Webhook-With-WebApi-master\WebhookApi\WebhookApi\bin\Debug\netcoreapp2.1\WebhookApi.deps.json
+E:\Medium-Dialogflow-Webhook-With-WebApi-master\WebhookApi\WebhookApi\bin\Debug\netcoreapp2.1\WebhookApi.runtimeconfig.json
+E:\Medium-Dialogflow-Webhook-With-WebApi-master\WebhookApi\WebhookApi\bin\Debug\netcoreapp2.1\WebhookApi.runtimeconfig.dev.json
+E:\Medium-Dialogflow-Webhook-With-WebApi-master\WebhookApi\WebhookApi\bin\Debug\netcoreapp2.1\WebhookApi.dll
+E:\Medium-Dialogflow-Webhook-With-WebApi-master\WebhookApi\WebhookApi\bin\Debug\netcoreapp2.1\WebhookApi.pdb
+E:\Medium-Dialogflow-Webhook-With-WebApi-master\WebhookApi\WebhookApi\obj\Debug\netcoreapp2.1\WebhookApi.csprojAssemblyReference.cache
+E:\Medium-Dialogflow-Webhook-With-WebApi-master\WebhookApi\WebhookApi\obj\Debug\netcoreapp2.1\WebhookApi.RazorAssemblyInfo.cache
+E:\Medium-Dialogflow-Webhook-With-WebApi-master\WebhookApi\WebhookApi\obj\Debug\netcoreapp2.1\WebhookApi.RazorAssemblyInfo.cs
+E:\Medium-Dialogflow-Webhook-With-WebApi-master\WebhookApi\WebhookApi\obj\Debug\netcoreapp2.1\WebhookApi.AssemblyInfoInputs.cache
+E:\Medium-Dialogflow-Webhook-With-WebApi-master\WebhookApi\WebhookApi\obj\Debug\netcoreapp2.1\WebhookApi.AssemblyInfo.cs
+E:\Medium-Dialogflow-Webhook-With-WebApi-master\WebhookApi\WebhookApi\obj\Debug\netcoreapp2.1\WebhookApi.RazorTargetAssemblyInfo.cache
+E:\Medium-Dialogflow-Webhook-With-WebApi-master\WebhookApi\WebhookApi\obj\Debug\netcoreapp2.1\WebhookApi.dll
+E:\Medium-Dialogflow-Webhook-With-WebApi-master\WebhookApi\WebhookApi\obj\Debug\netcoreapp2.1\WebhookApi.pdb
